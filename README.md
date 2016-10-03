@@ -1,2 +1,4 @@
 # hello-world
-Just getting started
+
+Oh hi there. This is me. Pinging through existence. 
+
